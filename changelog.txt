@@ -1,0 +1,10 @@
+/* 2015-03-03 v1.0 */
+- Initial release
+
+/* 2015-05-09 v1.1 */
+- WP security updates
+- updated required plugins: 
+	Senior Plugin 1.1,
+	Visual Composer 4.5.1, 
+	Ultimate Addons for Visual Composer 3.10, 
+	LayerSlider 5.4
